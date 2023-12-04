@@ -7,9 +7,9 @@ The purpose of this notebook is to explore the Walmart Sales dataset, and train 
 ## Table of contents
 ### Introduction
 ### 1. EDA and data preprocessing
-####  2.1. Cleaning the data
-####  2.2. EDA
-####  2.3. Data preprocessing
+####  1.1. Cleaning the data
+####  1.2. EDA
+####  1.3. Data preprocessing
 ### 2. Training a baseline model (linear regression)
 ### 3. Fight overfitting by training a regularized regression model
 ####  3.1. Ridge model
